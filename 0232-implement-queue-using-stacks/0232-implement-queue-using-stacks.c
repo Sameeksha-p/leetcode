@@ -5,7 +5,6 @@ typedef struct {
    int *arr;
     int front;
     int rear;
-    int capacity
 } MyQueue;
 
 
